@@ -1,1 +1,3 @@
-
+1. Add MTA-STS -> Check mailcow.conf
+2. Add TLSA to DNS -> Check Mailcow DNS Check for TLSA values
+3. Setup Borgmatic AND TEST it! -> https://docs.mailcow.email/third_party/borgmatic/third_party-borgmatic/?h=borg
